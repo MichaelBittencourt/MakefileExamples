@@ -1,3 +1,4 @@
 *.o
 hello
 *.swp
+*.s
